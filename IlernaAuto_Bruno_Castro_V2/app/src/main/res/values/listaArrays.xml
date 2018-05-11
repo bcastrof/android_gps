@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lista_tiendas">
+        <item>Vitoria-Gasteiz</item>
+        <item>Lleida</item>
+        <item>Bizkaia</item>
+        <item>Guipuzkoa</item>
+    </string-array>
+</resources>
